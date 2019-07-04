@@ -1,0 +1,28 @@
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.deps.json
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.runtimeconfig.json
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.runtimeconfig.dev.json
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.dll
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.csprojAssemblyReference.cache
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.csproj.CoreCompileInputs.cache
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorAssemblyInfo.cache
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorAssemblyInfo.cs
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.AssemblyInfoInputs.cache
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.AssemblyInfo.cs
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorTargetAssemblyInfo.cache
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.pdb
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.dll
+C:\Users\fzyan\source\repos\schoolSIMSnzmsaP1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.pdb
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.deps.json
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.runtimeconfig.json
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.runtimeconfig.dev.json
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.dll
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\bin\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.pdb
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.csprojAssemblyReference.cache
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.csproj.CoreCompileInputs.cache
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorAssemblyInfo.cache
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorAssemblyInfo.cs
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.AssemblyInfoInputs.cache
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.AssemblyInfo.cs
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.RazorTargetAssemblyInfo.cache
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.dll
+C:\Users\fzyan\Documents\MSA 2019\Phase 1\FelixYang-2019MSAPhase1\schoolSIMSnzmsaP1\obj\Debug\netcoreapp2.2\schoolSIMSnzmsaP1.pdb
